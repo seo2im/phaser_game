@@ -1,0 +1,1 @@
+docker run -d -p 3000:3000 -v $PWD/app:/usr/app --name phaser_game phaser_game
